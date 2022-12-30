@@ -2,7 +2,7 @@
 
 ## What It Does
 
-When you open the index.html file here, we can see the image which was broken in Part 1 earlier getting displayed. 
+When we open the index.html file here, we can see the image which was broken in Part 1 earlier getting displayed. 
 Therefore, though HTML defines what content to be shown, some of the resources like images, external fonts etc needs to be present to be able to show/use them.
 
 ## Screenshot Of The Project
